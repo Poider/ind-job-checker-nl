@@ -1,5 +1,6 @@
 # 🇳🇱 IND Job Checker NL
 
+
 **IND Job Checker NL** is a Streamlit web app that scans LinkedIn job listings and tells you whether the job is from a company recognized by the **Dutch Immigration and Naturalisation Service (IND)** for highly skilled migrants.
 
 ---
